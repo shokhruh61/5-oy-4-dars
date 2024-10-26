@@ -1,17 +1,17 @@
 // // sybolga oid masalalar
-// const mySymbol = Symbol("uniqueSymbol");
+// let mySymbol = Symbol("uniqueSymbol");
 
-// const index = {
+// let index = {
 //   name: "Ali",
 //   age: 25,
 //   [mySymbol]: "Symbol value"
 // };
 
 
-// const normalKeys = Object.keys(index);
+// let normalKeys = Object.keys(index);
 // console.log("Regular properties:", normalKeys); 
 
-// const symbolKeys = Object.getOwnPropertySymbols(index);
+// let symbolKeys = Object.getOwnPropertySymbols(index);
 // console.log("Symbol properties:", symbolKeys); 
 
 // console.log("Symbol property value:", index[symbolKeys[0]]); 
@@ -53,7 +53,7 @@
 //     }
 //   }
 
-//   const myCar = new Car("Mercedes", 2020, "black");
+//   let myCar = new Car("Mercedes", 2020, "black");
 
 //   console.log(myCar); 
 
@@ -68,7 +68,7 @@
 //     }
 // }
 
-// const myRectangle = new Rectangle(5, 10);
+// let myRectangle = new Rectangle(5, 10);
 
 // console.log("Area of the rectangle:", myRectangle.getArea());
 
