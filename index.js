@@ -1,20 +1,6 @@
 // // sybolga oid masalalar
 // let mySymbol = Symbol("uniqueSymbol");
 
-// let index = {
-//   name: "Ali",
-//   age: 25,
-//   [mySymbol]: "Symbol value"
-// };
-
-
-// let normalKeys = Object.keys(index);
-// console.log("Regular properties:", normalKeys); 
-
-// let symbolKeys = Object.getOwnPropertySymbols(index);
-// console.log("Symbol properties:", symbolKeys); 
-
-// console.log("Symbol property value:", index[symbolKeys[0]]); 
 
 // Rekursiv funksiyaga oid masalalar
 
