@@ -1,7 +1,3 @@
-// // sybolga oid masalalar
-// let mySymbol = Symbol("uniqueSymbol");
-
-
 // Rekursiv funksiyaga oid masalalar
 
 // function sum(n) {
